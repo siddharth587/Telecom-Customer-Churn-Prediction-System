@@ -4,7 +4,7 @@ A machine learning project to predict customer churn using the Telco dataset,
 with an interactive Streamlit dashboard.
 
 ## 🚀 Live Demo
-[Click here to view the app](#) ← replace with your Streamlit link
+https://telecom-customer-churn-prediction-system-yukr76gigon7a8qgh6bqe.streamlit.app/
 
 ## 📊 Project Overview
 - Cleaned and preprocessed Telco Customer Churn dataset
